@@ -1,0 +1,41 @@
+{
+  "idSchool": "lsdkfjsldkjsdlgkj",
+  "name": "School name",
+  "description": "School description",
+  "schoolType": "private",
+  "address": {
+    "addressLine": "Address line ici",
+    "zipCode": "40000",
+    "city": "Marrakech",
+    "country": "Maroc"
+  },
+  "coordinates": {
+    "latitude": 183.2132,
+    "longitude": 176.5431
+  },
+  "educationCycles": [
+    "college",
+    "high_school"
+  ],
+  "contact": {
+    "phone": "+212666666666",
+    "email": "email@example.com",
+    "fix": "+212555555555",
+    "youtube": "https://www.youtube.com/channel/id",
+    "facebook": "https://www.facebook.com/pageName",
+    "website": "http://www.example.com"
+  },
+  "images": [
+    "https://i.ibb.co/YyDB5NP/school.jpg",
+    "https://i.ibb.co/YyDB5NP/school.jpg",
+    "https://i.ibb.co/YyDB5NP/school.jpg"
+  ],
+  "globalRating": {
+    "level1": 24,
+    "level2": 54,
+    "level3": 16,
+    "level4": 187,
+    "level5": 72
+  },
+  "rating": 2.5
+}

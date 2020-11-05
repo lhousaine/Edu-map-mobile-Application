@@ -1,0 +1,14 @@
+{
+  "id": "dlskfsldk6512s1fsjuydf",
+  "username": "settani2018",
+  "firstName": "Abderrahman",
+  "lastName": "Settani",
+  "email": "abderrahmansettani@gmail.com",
+  "address": {
+    "city": "Marrakech",
+    "country": "Maroc"
+  },
+  "role": "admin",
+  "educationLevel": "second_bac",
+  "speciality": "sc_math"
+}

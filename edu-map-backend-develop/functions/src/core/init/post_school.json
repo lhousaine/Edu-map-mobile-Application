@@ -1,0 +1,26 @@
+{
+    "name": "Ecole1",
+    "description": "La meilleur école 1",
+    "schoolType": "PUBLIC",
+    "contact": {
+        "phone": "+21212121212",
+        "email": "email_2018@exemple.com",
+        "facebook": "Ecole 1 Officiel",
+        "youtube": "Ecole 1",
+        "website": "http://www.ecole1.com"
+    },
+    "address": {
+        "zipCode": "40000",
+        "address_line": "N°55 Rue exemple près du centre commercial.",
+        "city": "Marrakech",
+        "country": "Maroc"
+    },
+    "educationCycles": [ 
+        "HIGH_SCHOOL", 
+        "COLLEGE"
+    ],
+    "coordinates":{
+        "latitude":125.236,
+        "longitude":50
+    }
+}

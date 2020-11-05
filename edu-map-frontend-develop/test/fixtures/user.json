@@ -1,0 +1,18 @@
+{
+    "id": "dlskfsldk6512s1fsjuydf",
+    "username": "settani2018",
+    "firstName": "Abderrahman",
+    "lastName": "Settani",
+    "birthday": "1998-03-01",
+    "email": "abderrahmansettani@gmail.com",
+    "phone": "+212629598560",
+    "address": {
+      "zipCode": "40000",
+      "addressLine": "N°69 Unité 3 Supp Hay Mohammadi, Daoudiate",
+      "city": "Marrakech",
+      "country": "Maroc"
+    },
+    "role": "admin",
+    "educationLevel": "second_bac",
+    "speciality": "sc_math"
+}

@@ -1,0 +1,17 @@
+{
+    "firstName": "lhoussaine",
+    "lastName": "ouarhou",
+    "birthday": "07-01-1997",
+    "username": "lhou",
+    "email": "lhoussaineouarhou@gmail.com",
+    "password": "12345678",
+    "phone": "+212603708829",
+    "address": {
+      "address_line": "DR tiwririne tazarine",
+      "city": "zagora",
+      "country": "Maroc"
+    },
+    "role":"ADMIN",
+    "educationLevel": "SECOND_BAC",
+    "speciality": "SC_STE"
+}
